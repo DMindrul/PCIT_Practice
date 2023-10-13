@@ -1,0 +1,10 @@
+*.rar
+/backups/
+# Ignore temporary files
+*~
+# Ignore log files
+*.log
+# Ignore system files
+.DS_Store
+# Ignore virtual environment directories
+venv/
