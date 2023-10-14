@@ -1,5 +1,7 @@
 *.rar
 /backups/
+temp/
+*.txt
 # Ignore temporary files
 *~
 # Ignore log files
